@@ -1,0 +1,15 @@
+C:\Users\Matthew\source\repos\Constant\Constant\bin\Debug\net5.0\Constant.exe
+C:\Users\Matthew\source\repos\Constant\Constant\bin\Debug\net5.0\Constant.deps.json
+C:\Users\Matthew\source\repos\Constant\Constant\bin\Debug\net5.0\Constant.runtimeconfig.json
+C:\Users\Matthew\source\repos\Constant\Constant\bin\Debug\net5.0\Constant.runtimeconfig.dev.json
+C:\Users\Matthew\source\repos\Constant\Constant\bin\Debug\net5.0\Constant.dll
+C:\Users\Matthew\source\repos\Constant\Constant\bin\Debug\net5.0\ref\Constant.dll
+C:\Users\Matthew\source\repos\Constant\Constant\bin\Debug\net5.0\Constant.pdb
+C:\Users\Matthew\source\repos\Constant\Constant\obj\Debug\net5.0\Constant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\source\repos\Constant\Constant\obj\Debug\net5.0\Constant.AssemblyInfoInputs.cache
+C:\Users\Matthew\source\repos\Constant\Constant\obj\Debug\net5.0\Constant.AssemblyInfo.cs
+C:\Users\Matthew\source\repos\Constant\Constant\obj\Debug\net5.0\Constant.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\Constant\Constant\obj\Debug\net5.0\Constant.dll
+C:\Users\Matthew\source\repos\Constant\Constant\obj\Debug\net5.0\ref\Constant.dll
+C:\Users\Matthew\source\repos\Constant\Constant\obj\Debug\net5.0\Constant.pdb
+C:\Users\Matthew\source\repos\Constant\Constant\obj\Debug\net5.0\Constant.genruntimeconfig.cache

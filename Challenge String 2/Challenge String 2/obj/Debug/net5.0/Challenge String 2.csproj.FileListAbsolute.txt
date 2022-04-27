@@ -1,0 +1,15 @@
+C:\Users\Matthew\source\repos\Challenge String 2\Challenge String 2\bin\Debug\net5.0\Challenge String 2.exe
+C:\Users\Matthew\source\repos\Challenge String 2\Challenge String 2\bin\Debug\net5.0\Challenge String 2.deps.json
+C:\Users\Matthew\source\repos\Challenge String 2\Challenge String 2\bin\Debug\net5.0\Challenge String 2.runtimeconfig.json
+C:\Users\Matthew\source\repos\Challenge String 2\Challenge String 2\bin\Debug\net5.0\Challenge String 2.runtimeconfig.dev.json
+C:\Users\Matthew\source\repos\Challenge String 2\Challenge String 2\bin\Debug\net5.0\Challenge String 2.dll
+C:\Users\Matthew\source\repos\Challenge String 2\Challenge String 2\bin\Debug\net5.0\ref\Challenge String 2.dll
+C:\Users\Matthew\source\repos\Challenge String 2\Challenge String 2\bin\Debug\net5.0\Challenge String 2.pdb
+C:\Users\Matthew\source\repos\Challenge String 2\Challenge String 2\obj\Debug\net5.0\Challenge String 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\source\repos\Challenge String 2\Challenge String 2\obj\Debug\net5.0\Challenge String 2.AssemblyInfoInputs.cache
+C:\Users\Matthew\source\repos\Challenge String 2\Challenge String 2\obj\Debug\net5.0\Challenge String 2.AssemblyInfo.cs
+C:\Users\Matthew\source\repos\Challenge String 2\Challenge String 2\obj\Debug\net5.0\Challenge String 2.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\Challenge String 2\Challenge String 2\obj\Debug\net5.0\Challenge String 2.dll
+C:\Users\Matthew\source\repos\Challenge String 2\Challenge String 2\obj\Debug\net5.0\ref\Challenge String 2.dll
+C:\Users\Matthew\source\repos\Challenge String 2\Challenge String 2\obj\Debug\net5.0\Challenge String 2.pdb
+C:\Users\Matthew\source\repos\Challenge String 2\Challenge String 2\obj\Debug\net5.0\Challenge String 2.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop Challenge", "Loop Challenge\Loop Challenge.csproj", "{6B48B848-C590-4709-AF76-9B7008F4D237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B48B848-C590-4709-AF76-9B7008F4D237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B48B848-C590-4709-AF76-9B7008F4D237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B48B848-C590-4709-AF76-9B7008F4D237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B48B848-C590-4709-AF76-9B7008F4D237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BC86E9E-5CED-47AF-A376-D6664CFA6364}
+	EndGlobalSection
+EndGlobal
